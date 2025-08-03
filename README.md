@@ -65,3 +65,7 @@ Understand short- and long-term trends through dynamic visuals. ** 🧩 Tools & 
 Data Storage: SQL Database
 
 **Dashboard & Visualization: **Power BI
+
+##Dashboard
+![stock market dashboard](https://github.com/user-attachments/assets/b30731a8-7056-402a-9216-65a2d7e5aca4)
+
